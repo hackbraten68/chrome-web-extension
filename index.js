@@ -51,7 +51,7 @@ inputBtn.addEventListener("click", function() {
 })
 
 tabBtn.addEventListener("click", function() {
-    console.log(tabs)
+    console.log(tabs[0].url)
 })
 
 
