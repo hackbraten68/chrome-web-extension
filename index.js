@@ -17,7 +17,6 @@ deleteBtn.addEventListener("dblclick", function() {
     // clear myLeads
     myLeads = []
     // clear DOM -> listItems
-    listItems = []
     renderLeads()
 })
 
