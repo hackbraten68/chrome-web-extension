@@ -4,6 +4,6 @@
     "name": "Leads Tracker Storage - Chrome Web Extension",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "dungeon-solid.svg"
+        "default_icon": "icon.png"
     }
 }
